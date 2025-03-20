@@ -1,0 +1,68 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d0e6eb;
+}
+
+.header {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #063653;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+
+#sangliste {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sang {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.sang:hover {
+    transform: scale(1.02);
+}
+
+.sang h1 {
+    font-size: 28px;
+    margin: 0 0 10px;
+}
+
+.sang p {
+    margin: 5px 0;
+    color: #333;
+}
+
+.sang a {
+    color: #1e90ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sang a:hover {
+    text-decoration: underline;
+}

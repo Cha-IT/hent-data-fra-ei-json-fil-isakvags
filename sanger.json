@@ -1,0 +1,47 @@
+[
+    {
+        "tittel": "Whatever",
+        "artist": "Kygo",
+        "album": "Golden Hour",
+        "url": "https://www.youtube.com/watch?v=ZDZiXmCl4pk",
+        "review": "Kygo leverer en fengende melodi med sin signatur tropiske house-stil. Sangen har en lett og behagelig atmosfære som passer perfekt til sommerdager.",
+        "averageRating": 8.5,
+        "ratingKilder": ["Pitchfork, Rolling Stone og AllMusic"]
+    },
+    {
+        "tittel": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "'Fremtidig album'",
+        "url": "https://www.youtube.com/watch?v=t7bQwwqW-Hc",
+        "review": "Shaboozey kombinerer country og hiphop på en unik måte. Låten er både festvennlig og nostalgisk, noe som gir den bred appell.",
+        "averageRating": 7.8,
+        "ratingKilder": ["Pitchfork, Rolling Stone og AllMusic"]
+    },
+    {
+        "tittel": "True",
+        "artist": "Brandy",
+        "album": "B7",
+        "url": "https://www.youtube.com/watch?v=pO1A_kRPVi4",
+        "review": "Brandy viser sin sterke vokal og emosjonelle dybde i denne låten. En sår og ektefølt sang som treffer lytteren rett i hjertet.",
+        "averageRating": 8.2,
+        "ratingKilder": ["Pitchfork, Rolling Stone og AllMusic"]
+    },
+    {
+        "tittel": "I Don't Wanna Wait",
+        "artist": "David Guetta",
+        "album": "Nothing But the Beat",
+        "url": "https://www.youtube.com/watch?v=dSDbwfXX5_I",
+        "review": "David Guetta leverer nok en gang en energisk danselåt med en kraftig beat og drivende rytme. Perfekt for klubben og treningsøkter!",
+        "averageRating": 8.6,
+        "ratingKilder": ["Pitchfork, Rolling Stone og AllMusic"]
+    },
+    {
+        "tittel": "Bad Habits",
+        "artist": "Ed Sheeran",
+        "album": "= (Equals)",
+        "url": "https://www.youtube.com/watch?v=orJSJGHjBLI",
+        "review": "Ed Sheeran går for en mer synthpop-inspirert stil i denne låten. En fengende melodi med en mørkere undertone som gjør den ekstra interessant.",
+        "averageRating": 8.7,
+       "ratingKilder": ["Pitchfork, Rolling Stone og AllMusic"]
+    }
+]
